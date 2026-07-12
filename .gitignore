@@ -1,0 +1,11 @@
+target/
+*.class
+*.jar
+*.war
+.idea/
+*.iml
+.vscode/
+.DS_Store
+.env
+HELP.md
+.mvn/wrapper/maven-wrapper.jar
